@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="entries_animations" >
+        <item>"Apagado"</item>
+        <item>"Rápido"</item>
+        <item>"Normal"</item>
+        <item>"Despacio"</item>
+        <item>"Muy Lento"</item>
+    </string-array>
+    <string-array name="entries_font_size" >
+        <item>"Extremadamente Pequeño"</item>
+        <item>"Extra Pequeño"</item>
+        <item>"Pequeño"</item>
+        <item>"Normal"</item>
+        <item>"Grande"</item>
+        <item>"Extra Grande"</item>
+        <item>"Extremadamente Grande"</item>
+    </string-array>
+    <string-array name="entries_end_button" >
+        <item>"Nada"</item>
+        <item>"Regresar a la pantalla inicial"</item>
+        <item>"Suspender"</item>
+        <item>"Regresar a la pantalla inicial y suspender"</item>
+    </string-array>
+</resources>

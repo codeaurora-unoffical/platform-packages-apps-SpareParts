@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="entries_animations" >
+        <item>"Desligado"</item>
+        <item>"Rápido"</item>
+        <item>"Normal"</item>
+        <item>"Lento"</item>
+        <item>"Muito lento"</item>
+    </string-array>
+    <string-array name="entries_font_size" >
+        <item>"Minúsculo"</item>
+        <item>"Muito pequeno"</item>
+        <item>"Pequeno"</item>
+        <item>"Normal"</item>
+        <item>"Grande"</item>
+        <item>"Muito grande"</item>
+        <item>"Enorme"</item>
+    </string-array>
+    <string-array name="entries_end_button" >
+        <item>"Nada"</item>
+        <item>"Tela Inicial"</item>
+        <item>"Hibernar"</item>
+        <item>"Tela Inicial e depois hibernar"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dialog_title_end_button" >"Selecione o botão End"</string>
+    <string name="compatibility_mode_summary_on" >"Executar aplicações antigas em Modo de Compatibilidade. É necessário reiniciar"</string>
+    <string name="title_window_animations" >"Animações nas Janelas"</string>
+    <string name="summary_battery_information" >"Informação do estado atual da bateria"</string>
+    <string name="title_transition_animations" >"Animações nas transições"</string>
+    <string name="dialog_title_window_animations" >"Selecione a velocidade da janela"</string>
+    <string name="title_end_button" >"Comportamento do botão End"</string>
+    <string name="summary_off_fancy_ime_animations" >"Use animações normais nas janelas de métodos de entrada"</string>
+    <string name="summary_off_haptic_feedback" >"Use resposta tátil com interação do usuário"</string>
+    <string name="summary_transition_animations" >"Velocidade da animação entre janelas"</string>
+    <string name="title_fancy_ime_animations" >"Animações de entrada"</string>
+    <string name="compatibility_mode_title" >"Modo de Compatibilidade"</string>
+    <string name="summary_usage_statistics" >"Resumo de uso da aplicação"</string>
+    <string name="summary_end_button" >"Selecione a ação do botão End (vermelho)"</string>
+    <string name="summary_battery_history" >"Resumo de uso da bateria"</string>
+    <string name="summary_font_size" >"Tamanho geral das letras"</string>
+    <string name="general_title" >"Geral"</string>
+    <string name="device_info_title" >"Informações do dispositivo"</string>
+    <string name="dialog_title_font_size" >"Selecione o tamanho da letra"</string>
+    <string name="title_usage_statistics" >"Estatísticas de uso"</string>
+    <string name="dialog_title_transition_animations" >"Selecione a velocidade de transmissão"</string>
+    <string name="applications_title" >"Aplicações"</string>
+    <string name="title_haptic_feedback" >"Resposta tátil"</string>
+    <string name="summary_window_animations" >"Velocidade das animações em janelas individuais"</string>
+    <string name="title_battery_information" >"Informações da bateria"</string>
+    <string name="app_label" >"Partes sobressalentes"</string>
+    <string name="title_battery_history" >"Histórico da bateria"</string>
+    <string name="compatibility_mode_summary_off" >"Executar aplicações antigos em Modo de Compatibilidade. É necessário reiniciar"</string>
+    <string name="summary_on_fancy_ime_animations" >"Use animações chamativas para a janela de métodos de entrada"</string>
+    <string name="summary_on_haptic_feedback" >"Use resposta tátil com interação do usuário"</string>
+    <string name="title_font_size" >"Tamanho da letra"</string>
+</resources>
